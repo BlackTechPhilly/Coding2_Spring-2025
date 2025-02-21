@@ -15,7 +15,7 @@ This assignment is due at the end of class. If you are not present for class, th
 
 ## 1. Please watch this video on Game Design Documents
 
-[Game Design Document](hhttps://www.youtube.com/embed/ZE8v7uVGepM?si=4LKYqUXzuSg5DyWx)
+[Game Design Document](https://www.youtube.com/watch?v=ZE8v7uVGepM&t=124s)
 
 ## 2. On your document answer the following questions about your upcoming game project
 
