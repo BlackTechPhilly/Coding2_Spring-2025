@@ -25,9 +25,9 @@
 <body>
 
     <div class="grid-container">
-        <div>health player </div>
+        <div id ='userH'></div>
         <div></div>
-        <div>health player </div>
+        <div id ='cpuH'></div>
         <div></div>
 
 
@@ -42,23 +42,23 @@
             <div></div>  
             <div>
                 <img height ='100px' src = https://wikimon.net/images/thumb/7/7d/Patamon.jpg/320px-Patamon.jpg?/>
-
             </div>
             <div></div>
           </div></div>
          
         <div></div>
                 <div>
-                    <button>Fire Attack</button>
+                    <button onclick="attack('fire')">Fire Attack</button>
                 </div>
                 <div>
-                    <button>Water Attack</button>
+                    <button onclick="attack('water')">Water Attack</button>
                 </div>
                 <div>
-                    <button>Heal</button>
+                    <button onclick="attack('heal')">Heal</button>
                 </div>
             </div>
 </div>
+<script src ='logic.js'></script>
 </body>
 
 </html>
